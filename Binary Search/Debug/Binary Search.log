@@ -1,0 +1,3 @@
+﻿  Binary Search.cpp
+C:\Users\Tigran\Desktop\Binary Search\Binary Search.cpp(24): warning C4715: search_binary: значение возвращается не при всех путях выполнения
+  Binary Search.vcxproj -> C:\Users\Tigran\Desktop\Binary Search\Debug\Binary Search.exe
